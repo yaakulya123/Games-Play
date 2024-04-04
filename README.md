@@ -2,7 +2,7 @@
 
 ## Progress: Incomplete
 
-This repository contains the code for Yaakulya's Car Racing Game. Below is a summary of the current progress and planned improvements:
+This repository contains the code for my driving game: Yaakulya's Car Racing Circuit. Below is a summary of the current progress and planned improvements:
 
 1. **Existing Scenes and Functions:**
    - Scenes and functions have been created, but they require configuration and adjustments to work properly.
